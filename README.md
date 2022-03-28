@@ -1,2 +1,2 @@
 # travellor_destinations
-Web application to display amazing destination to visit..
+A simple flask Web application to display amazing destination to visit..
