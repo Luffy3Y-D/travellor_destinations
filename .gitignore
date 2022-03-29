@@ -130,3 +130,6 @@ dmypy.json
 
 # migrations folder
 **/migrations/**
+
+# Cython Debug Symbols
+run_script.sh
